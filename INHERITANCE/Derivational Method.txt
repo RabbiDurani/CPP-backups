@@ -1,0 +1,5 @@
+How derivation works in different ways of derivational member :
+                          Public Derivation        private Derivation        Protected Derivation
+  1.Private Members         Not Inherited            Not Inherited             Not Inherited
+  2.protected Members         Protected                Private                   Protected
+  3.public Members             Public                  Private                   Protected
